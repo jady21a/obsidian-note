@@ -69,6 +69,7 @@ $ git remote add key_ssh git@github.com:jady21a/git-test.git
 
 jady@LAPTOP-LNHLN54O MINGW64 /newfile/gitdemo (master)
 $ git push key_ssh master
+ //$ git push  origin  main
 
 ###### 从github clone  //无需ssh
 $ git clone git@github.com:jady21a/photo.git
