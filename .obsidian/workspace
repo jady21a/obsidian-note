@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "公司  &简历/投递信息.md",
+            "file": "工具/Git.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公司  &简历/投递信息.md",
+                "file": "工具/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "e51976e49e3c685c",
   "lastOpenFiles": [
+    "工具/Git.md",
     "公司  &简历/投递信息.md",
     "公司  &简历/需求截图.md",
-    "工具/screenshot/Pasted image 20220303180313.png",
-    "工具/screenshot/Pasted image 20220303180209.png",
-    "工具/screenshot/Pasted image 20220303180140.png",
-    "工具/screenshot/Pasted image 20220303180128.png",
-    "公司  &简历/screenshot/Pasted image 20220313184234.png",
-    "公司  &简历/screenshot/Pasted image 20220313183807.png",
-    "面试/css盒模型.md",
-    "工具/word.md"
+    "sumerise/notice.md",
+    "sumerise/注释.md",
+    "js2/es6.md",
+    "js注意/screenshot/Pasted image 20220313005903.png",
+    "js注意/screenshot/Pasted image 20220312150704.png",
+    "js注意/screenshot/Pasted image 20220311040436.png",
+    "js注意/screenshot/Pasted image 20220311032720.png"
   ]
 }
