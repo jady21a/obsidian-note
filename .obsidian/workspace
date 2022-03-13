@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "工具/git.md",
-            "mode": "preview",
+            "file": "公司  &简历/投递信息.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171
+    "width": 172
   },
   "right": {
     "id": "11205fa6b27cb510",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/git.md",
+                "file": "公司  &简历/投递信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "e51976e49e3c685c",
   "lastOpenFiles": [
-    "工具/git.md",
-    "工具/自定义标签.md",
-    "工具/Question.md",
-    "工具/README.md",
-    "工具/vs 纵享丝滑.md",
-    "工具/github打不开.md",
-    "工具/vim.md",
-    "html/html总结.md",
-    "html/html.md",
-    "html/浏览器.md"
+    "公司  &简历/投递信息.md",
+    "公司  &简历/需求截图.md",
+    "工具/screenshot/Pasted image 20220303180313.png",
+    "工具/screenshot/Pasted image 20220303180209.png",
+    "工具/screenshot/Pasted image 20220303180140.png",
+    "工具/screenshot/Pasted image 20220303180128.png",
+    "公司  &简历/screenshot/Pasted image 20220313184234.png",
+    "公司  &简历/screenshot/Pasted image 20220313183807.png",
+    "面试/css盒模型.md",
+    "工具/word.md"
   ]
 }

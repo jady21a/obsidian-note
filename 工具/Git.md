@@ -56,7 +56,9 @@ total 5
 $ cat id_rsa.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQD5gv984V5/u8anSt+jLV08FTDZy7Qnkm88HWjN+gMykqvCr0kAu/U5YL3Xp7oO4YEWmiNQyXrQuI48ppKEUGCKJFq9b2y4nTH6YKMiEB70uyuvzng6qWC3wAVLFkyzSB98eHpw00Pe08BawAm9Q2uojSvrksCAM4m1Km1Zkpi+GJliybTl+tR1QXmUO4N4+5pA0hlr6R4bxHl/zhK2SX3QpsBk/hARyeefKVR8kp7OD1VdgmcZErtCzN2VVnO+vxMDU/L6GlB8ZUffY+KD1+j6DJinCTYi5a8ZKo+LLo5FHeMasia6PGY1cIiEIcnVT5pOjZ80r3qPzk5IjRXvgfh99M7WzZktuIwc1CquTzjow4zUDdPg6Qm3BEdcC51UU56vz89bE7FYE1qwhrBFtOjHQHuB6E8KS3+60ZKyXTiIoOyjf/fVWlqVNp50iM2Y073g23akO2ArIjc7eXOYk6NEBt8GTltzM1SelvhVyvOWPAkoC1syU4Zw/OSVGgjiEkk= xyzjady21@outlook.com
 
-###### 文件push到github
+###### 文件 push 到 github
+git add 
+
 jady@LAPTOP-LNHLN54O MINGW64 /newfile/gitdemo (master)
 $ git commit -m 1
 [master 9de5961] 1
@@ -68,8 +70,9 @@ jady@LAPTOP-LNHLN54O MINGW64 /newfile/gitdemo (master)
 $ git remote add key_ssh git@github.com:jady21a/git-test.git
 
 jady@LAPTOP-LNHLN54O MINGW64 /newfile/gitdemo (master)
-$ git push key_ssh master
+$ git push key_ssh   master
 
+**//$ git push  origin  main**
 ###### 从github clone  //无需ssh
 $ git clone git@github.com:jady21a/photo.git
 

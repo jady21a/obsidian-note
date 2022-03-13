@@ -2,7 +2,7 @@
   "AutoFormatting": true,
   "ChineseEnglishSpace": true,
   "ChineseNoSpace": true,
-  "Capitalization": true,
+  "Capitalization": false,
   "PunctuationSpace": true,
   "EnglishSpace": true,
   "BraceSpace": true,
