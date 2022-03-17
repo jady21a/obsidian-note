@@ -1,4 +1,4 @@
-
+	
 更改host
 https://github.com.ipaddress.com/           ![[Pasted image 20220303180128.png]]
 
@@ -21,7 +21,10 @@ https://github.com.ipaddress.com/assets-cdn.github.com
 185.199.110.153 assets-cdn.github.com
 
 win+x   cmd
+
  ipconfig /flushdns
+
+
 ![[Pasted image 20220303180313.png]]
 
 host地址：C:\Windows\System32\drivers\etc
@@ -32,3 +35,12 @@ host地址：C:\Windows\System32\drivers\etc
 
 ![[Pasted image 20220303181804.png]]
 		确定    确定
+
+
+代理设置
+对 github 进行局部代理
+git config --global http. https://github.com.proxy=http://127.0.0.1:1080
+git config --global https. https://github.com.proxy=https://127.0.0.1:1080
+
+查看已有配置
+git config --global -l

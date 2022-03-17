@@ -1,0 +1,7 @@
+https://zh.javascript.info/strict-mode
+严格模式 (use strict)：ES5 规范增加了新的语言特性并且修改了一些已经存在的特性。为了保证旧的功能能够使用，大部分的修改是默认不生效的。你需要一个特殊的指令 —— `"use strict"` 来明确地激活这些特性。
+确保 `"use strict"` 出现在最顶部，只有注释可以出现在 `"use strict"` 的上面。
+
+Modern JavaScript supports “classes” and “modules” – advanced language structures (we’ll surely get to them), that enable `use strict` automatically.
+
+**So, for now `"use strict";` is a welcome guest at the top of your scripts. Later, when your code is all in classes and modules, you may omit it.**
