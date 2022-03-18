@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "js网站自学/6、值的比较.md",
+            "file": "js网站自学/object对象.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#continue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js网站自学/6、值的比较.md",
+                "file": "js网站自学/object对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "e51976e49e3c685c",
   "lastOpenFiles": [
-    "js网站自学/6、值的比较.md",
-    "js网站自学/5、运算符.md",
-    "js网站自学/4、alert, prompt and confirm （interaction（交互）：）.md",
-    "js网站自学/3、数据类型.md",
-    "js网站自学/2、variable var let   &const.md",
-    "js网站自学/1、use strict.md",
-    "工具/自定义标签.md",
-    "工具/前端工具网站.md",
-    "工具/Git.md",
-    "js/数据类型及其引用string、boolean、number、null、undefined.md"
+    "js网站自学/object对象.md",
+    "js网站自学/js综合特性.md",
+    "js网站自学/1.10、箭头函数.md",
+    "js网站自学/代码质量.md",
+    "coderwhy/学习顺序.md",
+    "js网站自学/1.9、函数.md",
+    "js网站自学/1.8、逻辑运算符.md",
+    "js网站自学/1.7、if & ‘？’ and  while& for switch.md",
+    "js网站自学/1.6、值的比较.md",
+    "js网站自学/1.5、运算符.md"
   ]
 }

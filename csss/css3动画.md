@@ -49,7 +49,7 @@
 	}
 ```
 3、利用偏移 translate 来做，这也是比较推荐的写法：
-```
+```css
 div {
 	    width: 600px;
 	    height: 60px;
