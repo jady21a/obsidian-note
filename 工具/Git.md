@@ -159,3 +159,6 @@ $ git commit -m "track *.zip files using Git LFS"
 $ git push origin master
 ```
 
+Q:
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.

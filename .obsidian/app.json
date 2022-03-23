@@ -3,5 +3,6 @@
   "livePreview": true,
   "promptDelete": false,
   "fileSortOrder": "alphabetical",
-  "attachmentFolderPath": "./screenshot"
+  "attachmentFolderPath": "./screenshot",
+  "communityThemeSortOrder": "download"
 }

@@ -37,10 +37,18 @@ host地址：C:\Windows\System32\drivers\etc
 		确定    确定
 
 
+
+
 代理设置
 对 github 进行局部代理
 git config --global http. https://github.com.proxy=http://127.0.0.1:1080
 git config --global https. https://github.com.proxy=https://127.0.0.1:1080
 
+全局代理
+skip
+
 查看已有配置
 git config --global -l
+
+---
+https://tding.top/archives/cbef72d4.html

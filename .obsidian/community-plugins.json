@@ -4,5 +4,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "remotely-save",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "remember-cursor-position",
+  "markdown-prettifier"
 ]

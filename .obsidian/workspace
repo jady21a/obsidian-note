@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "baf1a84a9a111cb2",
-        "type": "split",
-        "children": [
-          {
-            "id": "7de9837b44225c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c02f0a1f78629301",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "e5779e6a0fc3312d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "工具/Git.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "构造函数",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7de9837b44225c87",
+  "active": "e5779e6a0fc3312d",
   "lastOpenFiles": [
     "工具/Git.md",
-    "js网站自学/2.3可选链  “？.”   (Optional chaining).md",
-    "js网站自学/3.0数据类型详解.md",
-    "vue/vue-cli.md",
-    "summarize/注释.md",
-    "html/html.md",
-    "面试/html.md",
-    "js注意/var let const.md",
-    "js网站自学/1.10、箭头函数.md",
-    "js/js简介及书写.md"
+    "js网站自学/1.2、variable var let   &const.md",
+    "js网站自学/3.3 Arrays数组.md",
+    "js网站自学/Drawing 2022-03-23 21.10.24.excalidraw.md",
+    "js网站自学/1.1、js基础  &use strict.md",
+    "js网站自学/1.9、函数.md",
+    "js网站自学/Drawing 2022-03-23 21.08.01.excalidraw.md",
+    "js网站自学/Drawing 2022-03-23 21.07.22.excalidraw.md",
+    "js网站自学/代码质量.md",
+    "js网站自学/2.3可选链  “？.”   (Optional chaining).md"
   ]
 }
