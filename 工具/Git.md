@@ -107,7 +107,7 @@ bug分支
 tag
 
 
-# git 快捷键
+# git 快捷键-
 $ git config --global alias.stt status         //配置方法
 
 | 指令    | =            |
@@ -162,3 +162,5 @@ $ git push origin master
 Q:
 ssh: connect to host github.com port 22: Connection timed out
 fatal: Could not read from remote repository.
+A: 
+$ ping github. com

@@ -2,9 +2,13 @@
   "table-editor-obsidian",
   "easy-typing-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
   "remotely-save",
   "obsidian-mind-map",
+  "markdown-prettifier",
+  "calendar",
+  "obsidian-day-planner",
+  "templater-obsidian",
   "remember-cursor-position",
-  "markdown-prettifier"
+  "obsidian-git",
+  "obsidian-enhancing-mindmap"
 ]
