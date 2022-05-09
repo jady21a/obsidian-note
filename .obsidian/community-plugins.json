@@ -1,14 +1,14 @@
 [
   "table-editor-obsidian",
+  "calendar",
   "easy-typing-obsidian",
+  "obsidian-enhancing-mindmap",
   "obsidian-excalidraw-plugin",
-  "remotely-save",
   "obsidian-mind-map",
   "markdown-prettifier",
-  "calendar",
-  "obsidian-day-planner",
-  "templater-obsidian",
-  "remember-cursor-position",
+  "nldates-obsidian",
   "obsidian-git",
-  "obsidian-enhancing-mindmap"
+  "remember-cursor-position",
+  "remotely-save",
+  "templater-obsidian"
 ]
