@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "csss/css3选择器.md",
+            "file": "weekly/2022-W01.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "csss/css3选择器.md",
+                "file": "weekly/2022-W01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "csss/css3选择器.md"
+                "file": "weekly/2022-W01.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "csss/css3选择器.md",
+                "file": "weekly/2022-W01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46152d5bb11ee2d1",
+  "active": "137bc8c7a78bdd17",
   "lastOpenFiles": [
-    "csss/css样式表及选择器.md",
+    "templates/模板.md",
+    "templates/dairy.md",
+    "summarize/注释.md",
+    "css/css3选择器.md",
+    "css/css样式表及选择器.md",
     "dairy/2022-03-28.md",
     "面试/css盒模型(js网站自学题).md",
     "工具/obsidian快捷键.md",
     "工具/vim.md",
-    "weekly/2022-W01.md",
-    "面试/css.md",
-    "公司  &简历/投递信息.md",
-    "公司  &简历/需求截图.md",
-    "工具/vs code 快捷键.md"
+    "weekly/2022-W01.md"
   ]
 }
