@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weekly/2022-W01.md",
+            "file": "html/html.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/2022-W01.md",
+                "file": "html/html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/2022-W01.md"
+                "file": "html/html.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/2022-W01.md",
+                "file": "html/html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "137bc8c7a78bdd17",
+  "active": "46152d5bb11ee2d1",
   "lastOpenFiles": [
-    "templates/模板.md",
-    "templates/dairy.md",
-    "summarize/注释.md",
-    "css/css3选择器.md",
-    "css/css样式表及选择器.md",
-    "dairy/2022-03-28.md",
-    "面试/css盒模型(js网站自学题).md",
-    "工具/obsidian快捷键.md",
-    "工具/vim.md",
-    "weekly/2022-W01.md"
+    "html/html总结.md",
+    "html/Tag.md",
+    "html/html5.md",
+    "html/html.md",
+    "html/浏览器.md",
+    "css/css3属性.md",
+    "css/字体 文本 背景.md",
+    "工具/word.md",
+    "工具/vs code 快捷键.md",
+    "工具/vs 纵享丝滑.md"
   ]
 }
