@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72b12757f2692fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/文件共享.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mvvm",
+                "query": "文件共享",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/obsidian快捷键.md",
+                "file": "工具/文件共享.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/obsidian快捷键.md"
+                "file": "工具/文件共享.md"
               }
             }
           },
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/obsidian快捷键.md",
+                "file": "工具/文件共享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +200,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b078cc09e9263bef",
+  "active": "72b12757f2692fe3",
   "lastOpenFiles": [
+    "工具/obsidian快捷键.md",
     "html/html总结.md",
     "html/Tag.md",
     "html/html5.md",
@@ -198,7 +211,6 @@
     "css/css3属性.md",
     "css/字体 文本 背景.md",
     "工具/word.md",
-    "工具/vs code 快捷键.md",
-    "工具/vs 纵享丝滑.md"
+    "工具/vs code 快捷键.md"
   ]
 }
